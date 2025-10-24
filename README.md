@@ -1,7 +1,9 @@
 ## Foreign Exchange Hedging Recommendation – €4.5M European Receivable
 
 **Created by:** [Mia Umeda]  
-**Date Created:** October 23, 2025  
+**Updated by:** [Mia Umeda]  
+**Date Created:** [October 23, 2025]  
+**Date Updated:** [October 23, 2025] 
 **Version:** 1.0  
 **LLM Used:** Claude Sonnet 4
 
