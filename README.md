@@ -2,7 +2,7 @@
 
 **Created by:** [Mia Umeda]  
 **Date Created:** October 23, 2025  
-**Version:** 9.0  
+**Version:** 1.0  
 **LLM Used:** Claude Sonnet 4
 
 ---
@@ -29,11 +29,13 @@ I evaluated three hedging strategies using current market data:
 
 ## Limitations & Next Steps
 
-**Limitations:** Forward rate (1.0875) assumes stable market conditions; actual execution may vary by 10-20 basis points. Forward contracts provide no flexibility if payment timing changes. All strategies assume payment occurs as scheduled on the one-year maturity date.
+**Limitations:** Forward rate assumes stable conditions; execution may vary ±20 bps. No flexibility if payment timing changes.
 
-**Recommendation:** Implement forward contract for zero-cost certainty and risk elimination.
+**Technical Specification:** Excel model requirements: Inputs (EUR receivable, spot rate, forward rate, USD/EUR interest rates, option premium/strike, time period). Outputs (USD proceeds per strategy, net cost comparison, break-even analysis). Include sensitivity table showing proceeds across EUR scenarios (1.00-1.20 range).
 
-**Next Steps:** Treasury Department to obtain CFO approval by October 25, secure competitive quotes from three banks by October 28, and execute forward contract by October 30. Treasury will handle ongoing hedge accounting documentation and monthly monitoring.
+**Recommendation:** Forward contract optimal for zero-cost certainty.
+
+**Next Steps:** Treasury to secure CFO approval (Oct 25), obtain bank quotes (Oct 28), execute forward (Oct 30), and build Excel model for future decisions.
 
 ---
 
@@ -51,4 +53,4 @@ Yahoo Finance. (2025, October 23). *EUR/USD exchange rate*. https://finance.yaho
 
 ---
 
-**Word Count:** 390 words
+**Word Count:** 392 words
