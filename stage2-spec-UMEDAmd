@@ -1,7 +1,7 @@
-# Foreign Exchange Hedging Model – Technical Specification
+## Foreign Exchange Hedging Model – Technical Specification
 
-**Created by:** [Your Name]  
-**Updated by:** [Your Name]  
+**Created by:** [Mia Umeda]  
+**Updated by:** [Mia Umeda]  
 **Date Created:** October 23, 2025  
 **Date Updated:** October 23, 2025  
 **Version:** 1.0  
@@ -262,7 +262,7 @@ Before model deployment, the following validation steps are necessary:
 
 **Stage 5 – Analysis & Recommendation:** Use the completed model to generate a final executive recommendation memo synthesizing quantitative results with qualitative strategic considerations.
 
-**Timeline:** Complete Excel model build by October 30, 2025, to align with hedge execution deadline and CFO approval process.
+**Timeline:** Complete Excel model build by November 20, 2025, to align with hedge execution deadline and CFO approval process.
 
 ---
 
