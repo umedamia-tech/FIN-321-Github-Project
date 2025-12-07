@@ -14,16 +14,16 @@ Use the logic in:
 
 **INPUT VARIABLES**
 
-FC_AMT = 4,500,000 EUR
-Spot = 1.1607 USD/EUR
-Forward = 1.0875 USD/EUR
-r_USD = 3.55% per annum
-r_EUR = 2.15% per annum
-K_put = 1.1607 USD/EUR (ATM)
-K_call = 1.1607 USD/EUR (ATM)
-Premium_put = 0.015 USD per EUR
-Premium_call = 0.018 USD per EUR
-T_days = 365 days
+- FC_AMT = 4,500,000 EUR
+- Spot = 1.1607 USD/EUR
+- Forward = 1.0875 USD/EUR
+- r_USD = 3.55% per annum
+- r_EUR = 2.15% per annum
+- K_put = 1.1607 USD/EUR (ATM)
+- K_call = 1.1607 USD/EUR (ATM)
+- Premium_put = 0.015 USD per EUR
+- Premium_call = 0.018 USD per EUR
+- T_days = 365 days
 
 **SPREADSHEET REQUIREMENTS**
 
