@@ -6,8 +6,8 @@ Create an Excel file modeling forward, money market, and option hedges for my EU
 
 # CONTEXT FILES (GitHub)
 Use the logic in:
-- https://github.com/example/fin321/stage2-spec.md
-- https://github.com/example/fin321/stage3-skeleton.xlsx
+- https://github.com/umedamia-tech/FIN-321-Github-Project/blob/main/stage2-spec-UMEDA.md
+- 
 
 # INPUT VARIABLES
 FC_AMT = 2,850,000
