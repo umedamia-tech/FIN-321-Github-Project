@@ -16,7 +16,9 @@ Create an Excel file modeling forward, money market, and option hedges for my EU
 
 Use the logic in:
 - https://github.com/umedamia-tech/FIN-321-Github-Project/blob/main/stage2-spec-UMEDA.md
-- Previously made Excel spreadsheet (attached)
+- Previously made Excel spreadsheet 
+[stage3-model-UMEDA (2).xlsx](https://github.com/user-attachments/files/24014440/stage3-model-UMEDA.2.xlsx)
+
 
 **INPUT VARIABLES**
 
