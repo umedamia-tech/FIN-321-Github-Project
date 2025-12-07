@@ -50,7 +50,9 @@ Include forward hedge, money market hedge, option hedge, and sensitivity analysi
 
 **MODEL LOGIC**
 
-(Insert pseudocode from Stage 2 spec)
+If the option is low risk and high certainty proceed with forward rate 
+
+Else are secondary options
 
 **VERIFICATION**
 
