@@ -50,6 +50,8 @@ Include forward hedge, money market hedge, option hedge, and sensitivity analysi
 
 Validate parity and confirm all named ranges.
 
+Return full formula mapping for auditability
+
 **EXPORT**
 
 Return a downloadable Excel file.
