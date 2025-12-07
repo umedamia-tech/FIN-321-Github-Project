@@ -4,7 +4,13 @@ You are a financial modeling assistant.
 
 **GOAL**
 
-Create an Excel file modeling forward, money market, and option hedges for my EUR receivable.
+Create an Excel file modeling forward, money market, and option hedges for my EUR receivable. It must include 
+- Forward hedge calculation
+- Money Market Hedge (3-step)
+- Option Hedges (premium + payoff logic)
+- Sensitivity table ±5% (0.95×S0 → 1.05×S0)
+- Clean formatting and labeled sections
+- Cross-checks (parity, formula consistency)
 
 **CONTEXT FILES** 
 
